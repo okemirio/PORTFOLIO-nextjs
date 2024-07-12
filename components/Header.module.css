@@ -1,0 +1,12 @@
+/* components/Header.module.css */
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2em;
+    color: #333;
+  }
+  
